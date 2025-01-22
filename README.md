@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @locobean
-- 👀 I’m interested in web apps
-- 🌱 I’m currently learning Astro
+- 👀 I’m interested in web design, web apps, & AI tools & integration.
+- 🌱 I’m currently dipping my toes into the interesting world of Astro.
 - 📫 How to reach me 
 
 <!---
